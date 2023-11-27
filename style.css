@@ -2,6 +2,10 @@
   font-family: "Roboto", sans-serif;
 }
 
+i {
+  cursor: pointer;
+}
+
 .principal {
   border: 4px solid black;
 }
